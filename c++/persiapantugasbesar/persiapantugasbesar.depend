@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573119187 source:c:\users\hp\music\persiapantugasbesar\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

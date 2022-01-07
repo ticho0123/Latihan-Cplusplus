@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575522591 source:c:\users\hp\music\tubes\tubass\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<math.h>
+

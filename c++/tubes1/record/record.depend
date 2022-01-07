@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574332758 source:c:\users\hp\music\tubes\record\main.cpp
+	<iostream>
+	<fstream>
+

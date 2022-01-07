@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574849571 source:c:\users\hp\music\tubes\tubes2\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+

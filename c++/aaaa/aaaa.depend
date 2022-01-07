@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570873713 source:c:\users\hp\music\aaaa\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+

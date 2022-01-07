@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572498290 source:c:\users\hp\music\.cbp\kele\main.cpp
+	<iostream>
+	<fstream>
+
